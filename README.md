@@ -31,3 +31,9 @@ npm i
 ```
 npm run test
 ```
+
+### Developing
+
+```
+npm run main
+```

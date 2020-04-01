@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "main": "node lib/js-functions-1.js true",
     "test": "mocha tests/js-functions-1.test.js"
   },
   "keywords": [],
