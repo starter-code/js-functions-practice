@@ -10,17 +10,19 @@ This repo is designed for beginners to test out the console log
 2. install node modules
 3. run tests
 
-with SSH
+clone with SSH
 
 ```
 git clone git@github.com:starter-code/js-functions-practice.git
 ```
 
-with HTTPS
+clone with HTTPS
 
 ```
 git clone  https://github.com/starter-code/js-functions-practice.git
 ```
+
+Install packages
 
 ```
 npm i
@@ -29,7 +31,7 @@ npm i
 ### Testing
 
 ```
-npm run test
+npm test
 ```
 
 ### Developing
