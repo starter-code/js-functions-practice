@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-expressions */
 const expect = require('chai').expect;
-const jsFunctions = require('../lib/js-functions-1');
+const jsFunctions = require('../src/js-functions-1');
 require('mocha-sinon');
 
 const expectedOutput = {
