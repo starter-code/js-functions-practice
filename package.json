@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "main": "node src/js-functions-1.js true",
+    "main": "node src/js-functions-1.js --main true",
     "test": "mocha tests/js-functions-1.test.js",
     "ref": "node references/functions.js"
   },
